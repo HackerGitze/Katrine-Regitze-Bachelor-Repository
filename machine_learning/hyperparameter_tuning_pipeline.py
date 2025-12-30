@@ -1,4 +1,4 @@
-# followup_master_pipeline.py
+# hyperparameter_tuning_pipeline.py
 """
 A follow-up pipeline for detailed hyperparameter sweep and final training for CatBoost and ElasticNet.
 Builds on the structure of master_pipeline.py, but focuses on these two models with expanded hyperparameter grids,
